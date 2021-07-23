@@ -1,5 +1,5 @@
 {
-    "name": "excodus/oc-translate-extended",
+    "name": "excodus/oc-translate-extended-plugin",
     "type": "october-plugin",
     "description": "Plugin to October CMS that extends behavior of the default Translate Plugin",
     "keywords": [
